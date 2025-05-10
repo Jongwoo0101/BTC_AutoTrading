@@ -91,4 +91,4 @@ Use APIs and trading bots at your own risk.
 
 ## 📬 Contact
 
-Feel free to open an [issue](https://github.com/your-repo/issues) or submit a pull request if you’d like to contribute or report a bug.
+Feel free to open an [issue](https://github.com/Jongwoo0101/BTC_AutoTrading/issues) or submit a pull request if you’d like to contribute or report a bug.
