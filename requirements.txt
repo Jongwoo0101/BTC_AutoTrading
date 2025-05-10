@@ -1,0 +1,11 @@
+pyupbit
+prophet
+streamlit
+python-dotenv
+matplotlib
+pandas
+openai
+ta
+tensorflow
+keras
+sklearn
